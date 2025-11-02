@@ -7,3 +7,4 @@ added this in release 0.0.1
 added this line for feature blabla
 version becomes 0.0.5-SNAPSHOT
 changes made in feature/newthings
+changes made in feature ultra
