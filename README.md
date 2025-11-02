@@ -10,3 +10,4 @@
 - changes made in feature/newthings
 - changes made in feature ultra
 - version becomes 0.0.5
+- version becomes 0.0.6-SNAPSHOT
