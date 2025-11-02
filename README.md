@@ -9,3 +9,4 @@
 - version becomes 0.0.5-SNAPSHOT
 - changes made in feature/newthings
 - changes made in feature ultra
+- version becomes 0.0.5
